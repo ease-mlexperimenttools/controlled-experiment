@@ -2,7 +2,7 @@
 
 This repo presents the artifacts of our paper, "Experiment Management Tools for Machine Learning: A Controlled Experiment, submitted to EASE 2022.
 
-The artifacts used for our controlled experiment is under **controlled-experiment** directory, and it include: 
+The artifacts used for our controlled experiment is under **mlexperimentmgmt-appendix** directory, and it include: 
   - **Neptune.ai-material**: The initial python scripts for the experiment phases using Neptune.ai to track ML assets.
   - **DVC-material**: The initial python scripts and DVC config files for the experiment phases that used DVC to track and manage ML assets.
   - **No-Tool-material**: The initial python scripts for the experiment phases, which participants carried out without any supporting tool. 
