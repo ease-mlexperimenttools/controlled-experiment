@@ -1,4 +1,5 @@
-# appendix
+# Appendix for "Experiment Management Tools for Machine Learning: A Controlled Experiment"
+
 This repo presents the artifacts of our paper, "Experiment Management Tools for Machine Learning: A Controlled Experiment, submitted to EASE 2022.
 
 The artifacts used for our controlled experiment include: 
