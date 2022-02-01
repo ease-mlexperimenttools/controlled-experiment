@@ -9,3 +9,4 @@ The artifacts used for our controlled experiment include:
   - **Questionnaire & Responses**:
     - **Questionnaire**: Content of the Google Form used as a questionnaire for the controlled experiment. Some information such as links and participants' emails have been redacted to preserve anonymity.  
     - **Response**: A collection of data obtained from the controlled experiment as responses to our questionnaire
+    - **Statistical Data Analysis**: Raw data, extracted data and statistical test analysis of quantitative data points. 
